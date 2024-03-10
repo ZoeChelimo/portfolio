@@ -1,0 +1,76 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.hero{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: pink;
+    padding-bottom: 20px;
+    background-image: url(Download\ premium\ psd\ _\ image\ of\ Flower\ background\ psd\,\ cute\ desktop\ wallpaper\ by\ Sasi\ about\ background\ cute\,\ cute\ pattern\,\ flower\ pastel\,\ aesthetic\ wallpaper\ illustration\,\ and\ doodle\ cute\ 3892249.jpg);
+
+}
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px;
+}
+.logo{
+    height: 200px;
+    width: 150px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    color: red;
+}
+.details{
+    margin-left: 8%;
+    margin-top: 15%;
+}
+.navigation{
+    margin: 0;
+}
+.welcome{
+    height: 200px;
+    width: 200px;
+}
+.details{
+    display: flex;
+}
+.wordinfo{
+    font-size: 50px;
+}
+.education{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: fit-content;
+    background-image: url(Study\ aesthetic.jpg);
+    
+}
+.hobbies{
+    background-color: antiquewhite;
+}
+.motivation{
+    background-image: url(Golden.jpg);
+}
+.motiinfo{
+    font-weight: bold;
+    color: black;
+}
+.contacts{
+    text-align: center;
+    background-color: antiquewhite;
+}
